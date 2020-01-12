@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hale-cocoa-257804",
+  "private_key_id": "d9af667f47e82daae2d548985472732f89cafc97",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5Y6qkxv63+SXA\nnkSu57GYWKov+1KiIpuW+kz2+DD7ixLC0LZjSc9Xr6UdLOAdYQcu3dHoOCSJ3Hra\naCdxvL7k6Hpr3lizjNJDIvvLYIswKM6kb1d1t8X0XVxA3uOv1DOFL+4KPpiVG8Fa\nQ6KnH+8Q3VHXjpRdsDP4tqg/t7yR6AFO/jKbM/FBmZu1YaN+8a7zDeHCPSEDPQcA\n803NPzIcwddAoaU/NzSaP9cjV5WYfXkJYyA7xfeW+57FcTIwpRSze1gFsbSl6eGi\nSurK8Rk/iL4+srmIjNcmdUNX6UhyoquSe1b9ELhrfR5Uvd7SFBSTnLRJwWVVoY6Q\nEP8QIyCTAgMBAAECggEAGBO9JFRh3YPips8HTY3yzz3osH2cAEmtWmDcoRCfz/OC\ndsHDhkaeQp2hvJXI75fb5nbRna649Byp6fav9MIWKsWUrLC+ZWdLIYQIHqRFv3X1\nTH7XZYb+ExwS8Kvh90KAhHIyoKr7hxYJOQ9irwDjPBX6XJv8YeSSA2G5nTjgKTS3\nVma/RG5Pg1UuZ1kHDvZHhe5TrQZbWpJlmHalP0/I5xRVq8ZzQXNdikmL6SqiK5qM\najIHiOQBTgTJVOwUJ1mKweLcwe54avni3ma3ms18+I+bpxFHZH14pB0WSXgOf45V\n1hlF91AlOuJsEIT5QlXSkmoiwJ5KdQX+6Bl/XyDkUQKBgQDmNdlr29DN5tRmfxGr\nxuQvaxkPx0udxEEHA2ecgJnZGeRn4n8XIufOXdYZrvj2+KHCXedRku9soIyK1TsE\nWqPkkLJrUE5bTXpGbWeRlzfbK6N0NrUg+mJLz/BurLAwGvmo7oHj3GUK620N5Sxz\nFRhFqMiMiB5gZVC+qyPLMHKpgwKBgQDOKGe4+2dKWFQJRNOaLhCFdwcLLRDPuAWD\nqA9JtzUjoPE7sTQxv0skzIoJaFKMc2m4qaK0cyoe7O1FLt1YL7u8s+M1I9qX95/H\neKJDATEH4Kg92EKy7LtzfADAMyU+ytwk9dcwq4R8dXiZIygJsW5+lvPxDcZ6TfoK\nzA5JxBnPsQKBgBU6I+kxJKjHvxAQaXW4ajQBIRd2Xf+XKBPYeYZRyV3eaFQ361Yb\nztoVhvdpTeWf+XJtrDW2YcNXbn4iuUVmgjRCL2F7zy3WEA9MaT9gfTMFbBX8MWlw\nDP5GlzntTHWzFxA/pdR37w05th2Q4y9dY5aQwKVMq9hhnzdlmnBS8E+3AoGBAMIP\nQMvdQ3a1PK3Y7wMUV5L631OC4W9Wv0IWYgW3Art+FXZmMUae1mJWc521aPcy8RLW\nBAWu3rhruFHGcq8/h45zGu57yJoCi5IeGUfPiFLtBBHrT6XTuARWdvJ1cprwJFha\nXm0/FyB9B7/HWzn8npFlEU4Y9HtOiY++U7jWcqGRAoGBALMFRZ7ihv9OVzQa5YHM\neMmodUCkgyD/gHefQm0PfWDb/K/hkXqevSxhNfPNwnUPfJbZdmIpe+vExljjWQBa\nqOK+n8YCHW9d8JYnSZWpSKI0NzuTaZy1fjfd8SO9fEJGVVhmD2IALyzmRqIgb/Fw\nWnNLJ+ktfl0qq3z+hxlp+ghi\n-----END PRIVATE KEY-----\n",
+  "client_email": "big-query@hale-cocoa-257804.iam.gserviceaccount.com",
+  "client_id": "100380945177974157809",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/big-query%40hale-cocoa-257804.iam.gserviceaccount.com"
+}
